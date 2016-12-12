@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/playground":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/playground","hostpath":"C:/wamp/www/playground","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/wamp/www/playground","disabled":false,"__vagrantfile":true}}}
